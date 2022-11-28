@@ -1,92 +1,94 @@
-# 2022-but2-programmationmobile-supports 
+# BUT - Programmation mobile
+
+* *auteur* : Arnaud Pêcher
+* *date*: 21/09/2022
+
+---
+
+# Contenu/compétences
+
+[...]
+
+# Le planning
+
+18h + DS 2h
+
+* Découverte d'Android
+    * Présentation rapide 
+    * Premiers TP 
+    * Remise
+* TP d'approfondissement
+    * Tache asynchrone et service web Fichier
+    * Code barre et ISBN Fichier
+    * Remise
+* projet au choix
+    * Projet Cascade ( niveau facile ) Fichier apk pour le projet cascade 
+    * Projet Taquin (facile) 
+    * Projet TETRIS 
+    * Remise
+* DS 
+
+<!--
+* [Séance 01](seances/seance01.md) : environnement de travail et environnement 3d de l'application
+   * cours: [Unity et programmation](cours/supportUnity.pdf) 
+   * prêt des Oculus Quest
+   * configuration des casques ([fiche 9](fiches/9.quest.md))
+   * tutoriel "Roll a ball" : adaptation pour la VR
+      * projet en mode VR : export dans Oculus ([fiche 6](fiches/6.rv.md)) 
+      * gitlab-ce et réalité virtuelle ([fiche 1](fiches/1.gitlab.md))
+* [Séance 02](seances/seance02.md): réalisation de la scène 3d et mise en place de la communication réseau
+   * début du projet spécifique 
+     * environnement 3d ([fiche 2](fiches/2.environnement.md))
+     * scripts ([fiche 3](fiches/3.interactions.md))
+     * communication réseau  ([fiche 5](fiches/5.reseau.md))
+* [Séance 03](seances/seance03.md): interactions avec les contrôleurs, affichage du rythme cardiaque
+  * scripts: déplacement et sélection d'objets avec les manettes, avec les touches en mode PC ([fiche 3](fiches/3.interactions.md))
+  * affichage du rythme cardiaque dans le moniteur en temps réel
+* [Séance 04](seances/seance04.md) : finalisation
+   * finalisation du projet et contrôle qualité
+   * remise du projet
+   * remise du casque
+-->
+
+#  Modalités d'évaluation
+
+[3 remise + DS]
+
+# Ressources
+
+## Matériel 
+
+* les postes informatiques du département pour les séances en présentiel
+* le poste virtuel VDI "Unity 3D" (sous réserves)
+
+## Logiciels
+
+* `android studio`
+* `git` (client `gitbash`) pour la gestion du code du projet
+* `gitlab-ce` pour l'hébergement du projet
+
+## Supports pédagogiques
+
+<!--
+Pour la réalisation du projet, vous disposez d'un ensemble de fiches thématiques contenant les informations nécessaires à la réalisation des différentes fonctionnalités:
+
+* [Fiche 1](fiches/1.gitlab.md): Unity3d & GitLab
+* [Fiche 2](fiches/2.environnement.md) : Environnement 3d (terrains, skybox)
+* [Fiche 3](fiches/3.interactions.md) : Scripts, Interactions & Gestion des événements (clavier, manette Oculus)
+* [Fiche 4](fiches/4.animation.md) : Animation de personnages
+* [Fiche 5](fiches/5.reseau.md) : Réseau 
+* [Fiche 6](fiches/6.rv.md) : Réalité vituelle (HTC Vive / Oculus Rift, Oculus Go/Quest)
+* Fiche 7 : Réalité mixte (Hololens)
+* [Fiche 8](fiches/8.sons.md) : Son
+* [Fiche 9](fiches/9.quest.md) : Spécificités de l'Oculus Quest (conficuration, suivi de la position dans l'espace, espace de jeu, suivi des mains)
+-->
+
+## Références principales
+
+<!--
+* documentation de référence (Unity): https://docs.unity3d.com/Manual/index.html
+* tutoriel Roll a ball: https://learn.unity.com/project/roll-a-ball 
+* documentation de référence (Oculus): https://developer.oculus.com/documentation/unity/book-unity-gsg/ 
+-->
 
 
-
-## Getting started
-
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
-
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
-
-```
-cd existing_repo
-git remote add origin https://gitlab-ce.iut.u-bordeaux.fr/arpecher/2022-but2-programmationmobile-supports.git
-git branch -M main
-git push -uf origin main
-```
-
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://gitlab-ce.iut.u-bordeaux.fr/arpecher/2022-but2-programmationmobile-supports/-/settings/integrations)
-
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
-
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
