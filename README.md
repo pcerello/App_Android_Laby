@@ -90,7 +90,7 @@ Pour la réalisation du projet, vous disposez d'un ensemble de fiches thématiqu
 
 ## Références principales
 
-* [Programme pédagogique national](ppn.md) - R4.A.11 Développement pour applications mobile
+* Programme pédagogique national : [ R4.A.11 Développement pour applications mobile](ppn.md) 
 
 <!--
 * documentation de référence (Unity): https://docs.unity3d.com/Manual/index.html
