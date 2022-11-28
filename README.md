@@ -5,23 +5,26 @@
 
 ---
 
-# Contenu/compétences
+# ToDo
 
-[...]
+- [ ] phase 1
+- [ ] phase 2
+- [ ] phase 3
+
 
 # Le planning
 
 18h + DS 2h
 
-* Découverte d'Android
+* [Phase 01](phases/phase01.md) : Découverte d'Android
     * Présentation rapide 
     * Premiers TP 
     * Remise
-* TP d'approfondissement
+* [Phase 02](phases/phase02.md) : TP d'approfondissement
     * Tache asynchrone et service web Fichier
     * Code barre et ISBN Fichier
     * Remise
-* projet au choix
+* [Phase 03](phases/phase03.md) : projet au choix
     * Projet Cascade ( niveau facile ) Fichier apk pour le projet cascade 
     * Projet Taquin (facile) 
     * Projet TETRIS 
@@ -53,6 +56,8 @@
 #  Modalités d'évaluation
 
 [3 remise + DS]
+
+---
 
 # Ressources
 
@@ -91,4 +96,24 @@ Pour la réalisation du projet, vous disposez d'un ensemble de fiches thématiqu
 * documentation de référence (Oculus): https://developer.oculus.com/documentation/unity/book-unity-gsg/ 
 -->
 
+---
 
+# Programme pédagogique national - R4.A.11 Développement pour applications mobile
+
+##  Objectif 
+L'objectif de cette ressource est de découvrir des techniques de développement mobile.
+
+## Savoirs de référence étudiés
+
+* Programmation pour un système mobile
+* Problématiques de la mobilité (par ex. : autonomie, robustesse...)
+* Les différents savoirs de référence pourront être approfondis
+
+## Compétences
+
+* Compétence 1 "Partir des exigences et aller jusqu'à une application complète"
+    * AC 1 Élaborer et implémenter les spécifications
+* Compétence 2 "Sélectionner les algorithmes adéquats pour répondre à un problème donné"
+    * AC 4 Évaluer l'impact des solutions
+* Compétence 4 "Optimiser une base de données, interagir avec une application et mettre en œuvre la sécurité"
+    * AC 3 Organiser la restitution de données
