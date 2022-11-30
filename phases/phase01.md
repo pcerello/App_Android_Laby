@@ -18,7 +18,7 @@ Liste des exercices:
 ## Bases 
 
 * Exercice 1 : prise en main (création d’une application, compilation et lancement), refactoring
-* Exercice 2 : string.xml 
+* Exercice 2 : strings.xml 
 * Exercice 3 : internationalisation
 * Exercice 4 : icône
 * Exercice 5 : test du cycle de vie
@@ -38,6 +38,8 @@ Liste des exercices:
 # Exercices
 
 ## Bases
+
+---
 
 ### Exercice 1 : prise en main (création d’une application, compilation et lancement), refactoring
 
@@ -88,6 +90,41 @@ Gardez l’émulateur ouvert (ou réduit) après l’avoir lancé.
 Pour modifier le nom de la classe, utilisez les fonctions de refactoring disponibles dans l’IDE : `Refactor->Rename`.
 
 Vérifiez `AndroidManifest.xml`, compilez et testez votre application.
+
+Rétablissez ensuite le nom d'origine de la classe.
+
+---
+
+### Exercice 2 : strings.xml
+
+Changer le message qui apparaît lors de l’exécution de l’application. Dans le fichier `.xml` associé à l'actvité, le message « Hello world! » apparaît dans une balise `TextView`. Vous pouvez dès lors modifier son contenu, en fonction de vos souhaits. Compilez et testez ...
+
+Les chaînes sont normalement centralisées dans le fichier `strings.xml` et ses dérivés.
+
+1. Créez une variable `message` dans le fichier `strings.xml`, en l’initialisant avec le texte « Coucou ! »;
+2. Modifiez le `TextView` présent dans le fichier `activity_main.xml`, pour établir un lien vers cette variable. Compilez et testez.
+
+---
+
+### Exercice 3 : internationalisation
+
+Vous allez à présent ≪ internationaliser ≫ votre application, en proposant 2 versions du texte qui y apparaît, l’une en anglais, l’autre en français. 
+
+Lorsque plusieurs versions linguistiques sont présentes, ce fichier doit être dupliqué et placé dans un dossier portant le nom `values-xx`, le xx étant remplacé par un identifiant représentant la langue (`fr` pour le français, en pour l’anglais, etc.).
+
+Plutôt que de modifier manuellement l’arborescence de l’application, Android Studio propose un éditeur permettant, d’une part de définir la traduction des données figurant dans `strings.xml` et d’autre part, de générer l’arborescence nécessaire en fonction du ou des langue(s) choisie(s).
+
+Cliquez avec le bouton droit sur le fichier `strings.xml` et sélectionnez `Open Translations Editor`. En cliquant sur l’icône représentant la Terre (`Add Locale`), vous pouvez ajouter une nouvelle langue et saisir la traduction des entrées à votre guise. Vous devez voir apparaître dans la fenêtre de l’arborescence un nouveau fichier `strings.xml`, accompagné du drapeau de la langue choisie et de l’extension de cette langue entre parenthèses. Il ne vous reste plus qu’à compiler et tester l’application sur votre émulateur, en testant différents choix de langues sur celui-ci.
+
+Depuis un navigateur de fichiers, vérifiez la modification dans l’arborescence des ressources (i.e. le fichier français n’est pas dans le dossier values comme laisse penser l’IDE).
+
+---
+
+### Exercice 4 : icône
+
+On souhaite modifier l’icône de lancement de l’application. Dans un premier temps, récupérez une image qui servira d'icône.
+
+Sous Android Studio, cliquez sur le bouton droit sur le dossier `app` et sélectionnez l’option `New->Image Asset`. Cela a pour effet d’ouvrir un petit éditeur qui vous permet de sélectionner une image, d’y appliquer quelques effets simples et de générer des icônes avec différents niveaux de détails. En cas de résolution insuffisante, les niveaux hauts seront plus ou moins pixélisés ...
 
 ---
 
