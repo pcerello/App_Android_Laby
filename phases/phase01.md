@@ -1,11 +1,13 @@
-# Phase 01 : environnements de travail et 3d de l'application
+# Phase 01 : TP de découverte d'Android Studio
 
 * *auteurs* : Stéphane Fossé, Arnaud Pêcher
 * *date*: 29/11/2022
 
 ---
 
-Ce document décrit les principales étapes à réaliser pendant cette phase.
+Ce TP est une initiation à l’environnement de développement Android Studio.
+
+Il reprend une série d'exercices conçus par Stéphane Fossé.
 
 ---
 
@@ -13,9 +15,9 @@ Ce document décrit les principales étapes à réaliser pendant cette phase.
 
 Liste des exercices:
 
-## Introduction: Création d’une application, Compilation et lancement de l’application
+## Bases 
 
-* Exercice 1 : refactoring
+* Exercice 1 : prise en main (création d’une application, compilation et lancement), refactoring
 * Exercice 2 : string.xml 
 * Exercice 3 : internationalisation
 * Exercice 4 : icône
@@ -35,7 +37,61 @@ Liste des exercices:
 
 # Exercices
 
-## Introduction: Création d’une application, Compilation et lancement de l’application
+## Bases
+
+### Exercice 1 : prise en main (création d’une application, compilation et lancement), refactoring
+
+![exo1_1](../images/exo1_1.png)
+
+La première étape de la configuration consiste à sélectionner le type d’activité qui sera utilisé pour l’activité initiale de votre application. Nous utiliserons la ≪Empty Activity≫, qui correspond à un écran très simple, pour téléphones et tablettes.
+
+![exo1_2](../images/exo1_2.png)
+
+L'étape suivante consiste à définir les paramètres du projet (nom, dossier), le langage du code à utiliser (`java` ou `kotlin`), ainsi que la version minimum du SDK à utiliser.
+
+Choisir comme API minimum l’API 21 ainsi que le langage `Java`
+
+![exo1_3](../images/exo1_3.png)
+
+#### Compilation et lancement de l’application
+
+La création d’un nouveau projet via Android Studio génère une application par défaut, compilable et exécutable. 
+Dans notre cas (modèle `Empty Activity`), son exécution produit la création d’une seule activité et de son écran associé, et produit l’affichage du texte Hello world! ...
+
+**Compilation**
+
+Pour compiler uniquement votre application, utiliser le menu `Build->Make Project` ou bien le bouton de compilation.
+
+Vous devez voir apparaître dans la barre de notification de la fenêtre le message « Gradle build running » durant la phase de compilation, qui peut prendre quelques secondes.
+
+**Exécution**
+
+Pour lancer votre application, utiliser le menu `Run->Run app` ou bien le bouton de lancement. Si l’application n’a pas été compilée, une demande d’exécution lancera
+préalablement la phase de compilation ...
+
+Lancez l’exécution de cette application. Android Studio ouvre alors une fenêtre vous permettant de choisir le périphérique ou l'émulateur sur lequel doit s’exécuter l’application.
+
+Vous disposez de deux possibilités :
+* Connected Devices : si un périphérique physique (tablette, smartphone) est connecté à votre ordinateur, il apparaıt dans la partie supérieure et vous pouvez y lancer l’exécution de votre application. Dans le cas contraire, un message vous indique qu’aucun périphérique n’est connecté ;
+* Available Emulators : si un émulateur a été installé, vous pouvez lancer l’exécution de l’application sur celui-ci, divers périphériques virtuels étant disponibles selon la configuration d’Android Studio dont vous disposez.
+
+Si nécessaire, utilisez le bouton « Create New Emulator » pour créer un nouvel émulateur qui sera installé sur votre compte. Choisissez l’émulateur du NEXUS One.
+
+Après validation du périphérique à utiliser, une console d’exécution s’ouvre dans la partie inférieure de l’IDE et après un temps plus ou moins long, l’émulateur s’ouvre.
+
+![exo1_4](../images/exo1_4.png)
+
+Gardez l’émulateur ouvert (ou réduit) après l’avoir lancé.
+
+**Réusinage (refactoring)**
+
+Pour modifier le nom de la classe, utilisez les fonctions de refactoring disponibles dans l’IDE : `Refactor->Rename`.
+
+Vérifiez `AndroidManifest.xml`, compilez et testez votre application.
+
+---
+
+---
 
 ### Exercice 5 : test du cycle de vie
 

@@ -9,6 +9,7 @@
 
 - [ ] phase 1
   - [ ] finalisation phase01.md
+  - [ ] Android_presentation_IUT.md (maj du .pdf)
   - [ ] corrigés
 - [ ] phase 2
 - [ ] phase 3
@@ -18,7 +19,7 @@
 
 18h + DS 2h
 
-* [Phase 01](phases/phase01.md) : Découverte d'Android
+* [Phase 01](phases/phase01.md) : TP de découverte d'Android-Studio
     * Présentation rapide 
     * Premiers TP 
     * Remise
@@ -63,5 +64,5 @@ Le répertoire [cours/](cours/) contient les principaux supports pédagogiques d
 
 ## Références principales
 
-* Programme pédagogique national : [R4.A.11 Développement pour applications mobile](ppn.md) 
+* Programme pédagogique national : [R4.A.11 Développement pour applications mobile](PPN.md) 
 
