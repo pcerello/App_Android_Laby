@@ -15,7 +15,7 @@ Il reprend une série d'exercices conçus par Stéphane Fossé.
 
 Liste des exercices:
 
-## Bases 
+## Bases (2h)
 
 * Exercice 1 : prise en main (création d’une application, compilation et lancement), refactoring
 * Exercice 2 : strings.xml 
@@ -25,7 +25,7 @@ Liste des exercices:
 
 ## Principales notions d'une application Android
 
-* Exercice 6 : layout et événements
+* Exercice 6 : layout et événements - projet calculatrice (2h)
 * Exercice 7 : les intentions explicites
 * Exercice 8 : les intentions explicites(partie 2)
 * Exercice 9 : les intentions implicites
@@ -128,11 +128,9 @@ Sous Android Studio, cliquez sur le bouton droit sur le dossier `app` et sélect
 
 ---
 
----
-
 ### Exercice 5 : test du cycle de vie
 
-Vous allez à présent ajouter à votre application (Activite Principale.java) différentes méthodes du cycle de vie de l’activité et tester leur appel.
+Vous allez à présent ajouter à votre application différentes méthodes du cycle de vie de l’activité et tester leur appel.
 Ajoutez un affichage dans la console lorsque la méthode `onCreate()` est appelée ; vous pouvez utiliser pour ce faire un appel à `System.out.println`. Vérifiez qu’au lancement de votre application, cet affichage est bien généré ;
 Ajoutez la méthode `onStart()` suivante et de même insérez-y un affichage dans la console permettant de vérifier l’appel de cette méthode.
 
@@ -142,10 +140,10 @@ protected void onStart() {
 }
 ```
 
-Compilez et testez ;
-Vous pouvez générer automatiquement ces fonctions en utilisant `code->override methods`
-Faites de même avec les méthodes `onStop()`, `onRestart()`, `onResume()` et `onPause()` ;
-Tester vos méthodes J en utilisant l’émulateur.
+Compilez et testez.
+Vous pouvez générer automatiquement ces fonctions en utilisant `code->override methods`.
+Faites de même avec les méthodes `onStop()`, `onRestart()`, `onResume()` et `onPause()`.
+Tester vos méthodes en utilisant l’émulateur.
 
 ---
 
@@ -158,6 +156,10 @@ Modifiez l’activité pour utiliser un layout linéaire vertical.
 Réalisez l'interface graphique de la calculette « 4 opérations » directement dans le fichier XML
 Associez aux boutons les actions sans implémenter pour le moment les fonctions.
 Implémentez maintenant les fonctions pour finir votre application.
+
+---
+
+---
 
 ### Exercice 7 : les intentions explicites
 
