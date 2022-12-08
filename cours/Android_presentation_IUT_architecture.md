@@ -1,6 +1,6 @@
 # Sommaire
 
-## Architecture d'un projet sous Android Strudio
+## Architecture d'un projet sous Android Studio
 
 ### Structuration globale
 
@@ -17,6 +17,8 @@
 #### La classe R : utilisation des ressources en Java
 
 #### Utilisation des ressources en XML
+
+---
 
 # Architecture d'un projet sous Android Strudio
 
