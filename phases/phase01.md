@@ -159,8 +159,6 @@ Implémentez maintenant les fonctions pour finir votre application.
 
 ---
 
----
-
 ### Exercice 7 : les intentions explicites
 
 Créez un nouveau projet Android, puis complétez celui-ci avec les étapes suivantes :
@@ -169,14 +167,20 @@ Créez un nouveau projet Android, puis complétez celui-ci avec les étapes suiv
 
 Modifiez les deux activités pour que l'activité principale, lors de l'appui sur le bouton, envoie via une intention le texte saisi à la seconde activité qui l'affichera.
 
+---
+
 ### Exercice 8 : les intentions explicites (partie 2)
 
 Créez un nouveau projet composé de 3 activités :
 * L’activité principale présente à l'utilisateur deux parties contenant respectivement :
-    * Pour la partie supérieure, des champs correspondant à un nom, un prénom et un numéro de téléphone, ainsi qu'un bouton modifier ;
+    * Pour la partie supérieure, des champs correspondant à un nom, un prénom et un numéro de téléphone, ainsi qu'un bouton mMdifier ;
     * Pour la partie inférieure, une adresse sous la forme des champs numéro, nom de rue, code postal et ville, ainsi qu'un bouton Modifier.
 * Une seconde activité, déclenchée par appui du bouton Modifier de la partie supérieure, permettant à l'utilisateur de modifier la valeur des différents champs concernant son identité. Deux boutons seront présents, l'un permettant de valider les modifications saisies (renvoyées à l'activité principale) et l'autre permettant d'annuler ces modifications et de revenir à l'activité principale ;
 * Une troisième activité, fonctionnant de manière similaire, sur les informations concernant l'adresse de l'utilisateur.
+
+---
+
+---
 
 ### Exercice 9 : les intentions implicites
 
