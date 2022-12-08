@@ -55,13 +55,13 @@ Sa part de marché en 2016 était de 80% ( 18% pour IOS)
 ## Interactions: présentation générale
 
 * Les intentions [https://developer.android.com/guide/components/intents-filters.html](Intent)
-    – Permet d’échanger des informations entre composants
-    – Démarrage d’un composant en lui envoyant des données
-    – Récupération de résultats depuis un composant
-    – Recherche d’un composant en fonction d’un type d’action à réaliser
+    * Permet d’échanger des informations entre composants
+    * Démarrage d’un composant en lui envoyant des données
+    * Récupération de résultats depuis un composant
+    * Recherche d’un composant en fonction d’un type d’action à réaliser
 * Les filtres d'intentions (`<intent-filter>`)
-    – Permet à un composant d'indiquer ce qu'il sait faire
-    – Permet au système de sélectionner les composants susceptibles de répondre à une demande de savoir-faire d’une application
+    * Permet à un composant d'indiquer ce qu'il sait faire
+    * Permet au système de sélectionner les composants susceptibles de répondre à une demande de savoir-faire d’une application
 
 ## Le fichier AndroidManifest.xml
 
