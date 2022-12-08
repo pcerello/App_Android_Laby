@@ -1,6 +1,6 @@
 # Introduction à la programmation Android
 
-* *auteurs* : Stéphane Fossé, Arnaud Pêcher
+* *auteurs* : Stéphane Fossé (auteur principal), Arnaud Pêcher
 * *date*: 29/11/2022
 
 ---
@@ -21,3 +21,43 @@ Historiquement, Android a été créé en 2005 par la société Android, puis ra
 Sa part de marché en 2016 était de 80% ( 18% pour IOS)
 
 ---
+
+# Les contraintes de la programmation mobile
+
+* Hétérogénéité du matériel, Processeurs …
+* Puissance et mémoire limitées
+* Interface tactile
+* Taille de l’écran
+* Connectivité à internet (disponibilité, rapidité, ...)
+* Développement (souvent) extérieur au périphérique
+
+---
+
+# Architecture d'un projet sous Android Strudio
+
+---
+
+## Structuration globale
+
+* dossier `Java`: code source (Java) du projet
+* dossier `res`: ressources du projet
+    * sous-dossier `layout`: mises en page des écrans de l'application et menus
+    * sous-dossier `mipmap`: icônes
+    * sous-dossier `values`: données constantes
+
+## Composants: présentation générale
+
+* Les activités [https://developer.android.com/guide/components/activities.html](Activity): écran avec une interface utilisateur et un contexte
+* Les services [https://developer.android.com/guide/components/services.html](Service): composant sans écran, qui tourne en fond de tâche (lecteur de musique, téléchargement, ...)
+* Les fournisseurs de contenu [https://developer.android.com/guide/topics/providers/content-providers.html](ContentProvider): Entrée/Sortie sur des données gérées par le système ou par une autre application
+* Des récepteurs d'intentions (BroadcastReceiver) Récupération d'informations générales, arrivée d'un sms, batterie faible, ...
+
+## Interactions: présentation générale
+
+
+
+---
+
+# Références principales
+
+* https://developer.android.com/index.html
