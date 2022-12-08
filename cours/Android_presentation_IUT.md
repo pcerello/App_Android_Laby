@@ -87,8 +87,81 @@ Exemple de fichier `AndroidManifest.xml` :
     </application>
 </manifest>
 ```
+
+## Les ressources 
+
+Ce sont toutes les données (autres que le code) utilisées par l'application [https://developer.android.com/guide/topics/resources/index.html](documentation). Elles sont rangées dans le dossier `res`, puis incluses dans l'exécutable (fichier `apk`) lors de la compilation:
+* `res/drawable` et `res/mipmap` (images en différentes résolutions)
+* `Layout` (description en XML des interfaces)
+* `Menus` (description en XML des menus)
+* `Values` (définitions en XML des constantes utilisées par l'application : chaînes, tableaux, valeurs numériques
+
 ---
 ---
+
+### strings.xml et internationalisation
+
+### La classe R : utilisation des ressources en Java
+
+### Utilisation des ressources en XML
+
+---
+
+# Les activités
+
+## Cycle de vie d’une activité
+
+## Développement Android
+
+## L’utilisation du Bundle : sauvegarde et restauration .
+
+---
+
+# Définir une interface graphique
+
+## Les layouts
+
+### RelativeLayout
+
+### LinearLayout
+
+## Les widgets
+
+### Les TextView
+
+## Implémentation d'un comportement
+
+### Attribut android:onClick
+
+### Les event listener (écouteurs)
+
+---
+
+# Les intentions
+
+## Les intentions explicites
+
+## Les intentions implicites
+
+## Les données
+
+## Les extras
+
+---
+
+# Les intent filters
+
+---
+
+# Les permissions
+
+---
+
+# Les menus
+
+## Menus d'une application
+
+## Menu contextuel
 
 ---
 
