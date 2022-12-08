@@ -8,7 +8,7 @@
 # ToDo
 
 - [ ] phase 1
-  - [ ] finalisation phase01.md
+  - [x] finalisation phase01.md
   - [ ] Android_presentation_IUT.md (maj du .pdf)
   - [ ] corrigés
 - [ ] phase 2

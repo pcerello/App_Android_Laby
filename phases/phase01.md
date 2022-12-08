@@ -27,7 +27,7 @@ Liste des exercices:
 
 * Exercice 6 : layout et événements - projet calculatrice (2h)
 * Exercice 7 : les intentions explicites
-* Exercice 8 : les intentions explicites(partie 2)
+* Exercice 8 : les intentions explicites (partie 2)
 * Exercice 9 : les intentions implicites
 * Exercice 10 : les intentions implicites (parie 2)
 * Exercice 11 : Les menus et images
@@ -180,11 +180,25 @@ Créez un nouveau projet composé de 3 activités :
 
 ---
 
----
-
 ### Exercice 9 : les intentions implicites
 
-[...]
+Créez un nouveau projet et créer l’IHM ci-dessous.
+
+![exo9](../images/exo9.png)
+
+Complétez votre activité principale de telle sorte que l’appui sur chacun d’un de ces boutons provoque l’affichage du texte du bouton dans la console ( une seule fonction ).
+
+Modifiez le code de gestion de l’appui sur le bouton SMS de telle sorte que cet événement déclenche la une intention visant l’envoi d’un sms.
+
+L’action à utiliser est `ACTION SENDTO` et l’URI à créer doit utiliser le schéma sms et une information correspondant à un numéro de téléphone quelconque. Testez cette fonctionnalité ;
+
+Faites de même pour le bouton MMS et pour le bouton appel;
+
+Complétez le code de gestion du bouton web, de manière à ouvrir une page web.
+
+Faite de même pour le bouton `map` avec `geo:0,0?q=1600+Amphitheatre+Parkway,+Mountain+View,+CA+94043`
+
+---
 
 ### Exercice 10 : les intentions implicites (partie 2)
 
@@ -195,23 +209,27 @@ Modifiez votre application de telle sorte qu’elle comporte :
 
 Testez votre application.
 
+---
+
 ### Exercice 11 : Les menus et images
 
 L'objectif de cet exercice est d’écrire une application permettant de charger une image stockée sur le périphérique et de l'afficher.
 
 L’interface sera simplement constituée d’un bouton (pour permettre le chargement) et de l’image.
 
-Dans un premier temps, créez l’interface graphique. Le widget à utiliser pour l’image est ImageView.
+Dans un premier temps, créez l’interface graphique. Le widget à utiliser pour l’image est `ImageView`.
 
 Compléter le code de l’application pour gérer l’appui sur le bouton de chargement, en faisant afficher un message dans la console.
 
-Complétez l’application pour qu’elle émette une intention dont l’action sera ACTION GET CONTENT et le type celui correspondant à une image, qu’elle récupère l’image retournée et l’affiche dans le widget correspondant.
-* La classe à utiliser pour l’image est ImageView ;
+Complétez l’application pour qu’elle émette une intention dont l’action sera `ACTION GET CONTENT` et le type celui correspondant à une image, qu’elle récupère l’image retournée et l’affiche dans le widget correspondant.
+* La classe à utiliser pour l’image est `ImageView` ;
 * Pour pouvoir charger une image, votre application doit sans doute disposer d’une permission
 
 Lorsque le chargement de vos images fonctionne, ajoutez des boutons à votre application, permettant d’effectuer
 * Un miroir horizontal de l’image
 * Un miroir vertical de l’image
+
+---
 
 ### Exercice 12 : menus contextuels
 
@@ -222,5 +240,3 @@ Ajoutez un menu contextuel au composant d’affichage de l’image, pour que les
 * Transformer l’image en niveaux de gris
 
 ---
-
-# Remise
