@@ -10,7 +10,7 @@
 
 * Présentation
 * Les contraintes de la programmation mobile
-* [./Android_presentation_IUT_architecture.md](Architecture d'un projet sous Android Strudio)
+* [Android_presentation_IUT_architecture.md](Architecture d'un projet sous Android Strudio)
 
 ## Les activités
 
