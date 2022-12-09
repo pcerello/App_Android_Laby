@@ -1,4 +1,4 @@
-# Définir une interface graphique
+# Les intentions
 
 **Sommaire**
 
