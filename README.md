@@ -9,7 +9,7 @@
 
 - [ ] phase 1
   - [x] finalisation phase01.md
-  - [ ] Android_presentation_IUT.md (maj du .pdf)
+  - [x] Android_presentation_IUT.md (maj du .pdf)
   - [ ] corrigés
 - [ ] phase 2
 - [ ] phase 3
