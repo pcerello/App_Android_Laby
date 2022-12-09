@@ -1,6 +1,6 @@
 # Introduction à la programmation Android
 
-* *auteurs* : Stéphane Fossé (auteur principal), Arnaud Pêcher
+* *auteurs* : Stéphane Fossé (contenu), Arnaud Pêcher (portage en markdown)
 * *date*: 29/11/2022
 
 ---
