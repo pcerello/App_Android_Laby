@@ -27,7 +27,7 @@ Liste des exercices:
 
 * Exercice 6 : layout et événements - projet calculatrice (2h)
 * Exercice 7 : les intentions explicites
-* Exercice 8 : les intentions explicites (partie 2)
+* Exercice 8 : les intentions explicites (partie 2) - (2h)
 * Exercice 9 : les intentions implicites
 * Exercice 10 : les intentions implicites (parie 2)
 * Exercice 11 : Les menus et images
