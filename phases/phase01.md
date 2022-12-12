@@ -17,21 +17,21 @@ Liste des exercices:
 
 ## Bases (2h)
 
-* Exercice 1 : prise en main (création d’une application, compilation et lancement), refactoring
-* Exercice 2 : strings.xml 
-* Exercice 3 : internationalisation
-* Exercice 4 : icône
-* Exercice 5 : test du cycle de vie
+* [Exercice 1 : prise en main (création d’une application, compilation et lancement), refactoring](#exercice-1--prise-en-main-création-dune-application-compilation-et-lancement-refactoring)
+* [Exercice 2 : strings.xml](#exercice-2--stringsxml) 
+* [Exercice 3 : internationalisation](#exercice-3--internationalisation)
+* [Exercice 4 : icône](#exercice-4--icône)
+* [Exercice 5 : test du cycle de vie](#exercice-5--test-du-cycle-de-vie)
 
 ## Principales notions d'une application Android
 
-* Exercice 6 : layout et événements - projet calculatrice (2h)
-* Exercice 7 : les intentions explicites
-* Exercice 8 : les intentions explicites (partie 2) - (2h)
-* Exercice 9 : les intentions implicites
-* Exercice 10 : les intentions implicites (parie 2)
-* Exercice 11 : Les menus et images
-* Exercice 12 : menu contextuels
+* [Exercice 6 : layout et événements - projet calculatrice](#exercice-6--layout-et-événements) (2h)
+* [Exercice 7 : les intentions explicites](#exercice-7--les-intentions-explicites)
+* [Exercice 8 : les intentions explicites (partie 2)](#exercice-8--les-intentions-explicites-partie-2) - (2h)
+* [Exercice 9 : les intentions implicites](#exercice-9--les-intentions-implicites)
+* [Exercice 10 : les intentions implicites (partie 2)](#exercice-10--les-intentions-implicites-partie-2) - (2h)
+* [Exercice 11 : Les menus et images](#exercice-11--les-menus-et-images)
+* [Exercice 12 : menu contextuels](#exercice-12--menus-contextuels)
 
 ---
 
@@ -205,7 +205,7 @@ Faite de même pour le bouton `map` avec `geo:0,0?q=1600+Amphitheatre+Parkway,+M
 Modifiez votre application de telle sorte qu’elle comporte :
 * un champ de saisie permettant de récupérer le numéro de téléphone à utiliser pour les sms, mms et appels ;
 * Un champ de saisie pour l’url à ouvrir ;
-* Deux champs de saisie pour les coordonnées géographiques (latitude et longitude) d’un lieu à visualiser.
+* Deux champs de saisie pour les coordonnées géographiques (lattitude et longitude) d’un lieu à visualiser.
 
 Testez votre application.
 
