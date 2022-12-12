@@ -59,7 +59,7 @@
 
 Le répertoire [cours/](cours/) contient les principaux supports pédagogiques de ce module:
 
-* Cours (synthétique) de Stéphane Fossé (Université de Bordeaux): [Introduction à la programmation Android](cours/Android_presentation_IUT.pdf)
+* Cours (synthétique) de Stéphane Fossé (Université de Bordeaux): [Introduction à la programmation Android](cours/Android_presentation_IUT/Android_presentation_IUT.md)
 * Cours (complet) de Pierre Nerzic (Université Rennes 1) : [Programmation mobile avec Android](cours/polyAndroid.pdf)
 
 ## Références principales

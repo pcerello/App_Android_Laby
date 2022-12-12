@@ -55,8 +55,8 @@ Le positionnement se fait par rapport au parent ou les uns par rapport aux autre
 
 Exemple:
 
-![RelativeLayout](../images/presentationRelativeLayout2.png)
-![RelativeLayout](../images/presentationRelativeLayout.png)
+![RelativeLayout](./images/presentationRelativeLayout2.png)
+![RelativeLayout](./images/presentationRelativeLayout.png)
 
 Le comportement par défaut est que tous les nœuds sont positionnés à partir du coin supérieur gauche. Faire attention à la superposition. 
 
@@ -68,11 +68,11 @@ Un [LinearLayout](https://developer.android.com/guide/topics/ui/layout/linear.ht
 
 Exemple:
 
-![LinearLayout](../images/presentationLinearLayout.png)
+![LinearLayout](./images/presentationLinearLayout.png)
 
 On peut modifier le «poids » de chaque nœud, et ainsi, changer la taille de la zone occupée par chaque noeud dans l'écran. Il faut ajouter un attribut `android:layout_weight` à chaque nœud.
 
-![LinearLayout](../images/presentationLinearLayout2.png)![LinearLayout](../images/presentationLinearLayout3.png)
+![LinearLayout](./images/presentationLinearLayout2.png)![LinearLayout](./images/presentationLinearLayout3.png)
 
 Pour l’alignement de chaque noeud dans sa zone, on peut ajouter un attribut `android:layout_gravity`. De nombreuses valeurs sont possibles (center, center_vertical, center_horizontal, left, right, top, bottom …)
 

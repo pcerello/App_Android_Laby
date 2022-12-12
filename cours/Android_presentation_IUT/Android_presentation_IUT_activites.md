@@ -16,7 +16,7 @@ Une activité peut se trouver dans différents états en fonction des actions du
 * **Arrêtée** (stopped) : après un appel à `onStop()`
 * **Terminée** : après un appel à onDestroy()
 
-![cycle de vie d'une activité](../images/presentation_cycleVie.png)
+![cycle de vie d'une activité](./images/presentation_cycleVie.png)
 
 ---
 
@@ -60,4 +60,4 @@ void onCreate(Bundle savedInstanceState)
 void onRestoreInstanceState(Bundle savedInstanceState)
 ```
 
-![cycle de vie d'une activité](../images/presentation_bundle.png)
+![cycle de vie d'une activité](./images/presentation_bundle.png)
