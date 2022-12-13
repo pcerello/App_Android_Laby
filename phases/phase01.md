@@ -15,7 +15,7 @@ Il reprend une série d'exercices conçus par Stéphane Fossé.
 
 Liste des exercices:
 
-## Bases (2h)
+## Bases 
 
 * [Exercice 1 : prise en main (création d’une application, compilation et lancement), refactoring](#exercice-1--prise-en-main-création-dune-application-compilation-et-lancement-refactoring)
 * [Exercice 2 : strings.xml](#exercice-2--stringsxml) 
@@ -25,13 +25,13 @@ Liste des exercices:
 
 ## Principales notions d'une application Android
 
-* [Exercice 6 : layout et événements - projet calculatrice](#exercice-6--layout-et-événements) (2h)
+* [Exercice 6 : layout et événements - projet calculatrice](#exercice-6--layout-et-événements) 
 * [Exercice 7 : les intentions explicites](#exercice-7--les-intentions-explicites)
-* [Exercice 8 : les intentions explicites (partie 2)](#exercice-8--les-intentions-explicites-partie-2) - (2h)
+* [Exercice 8 : les intentions explicites (partie 2)](#exercice-8--les-intentions-explicites-partie-2) 
 * [Exercice 9 : les intentions implicites](#exercice-9--les-intentions-implicites)
-* [Exercice 10 : les intentions implicites (partie 2)](#exercice-10--les-intentions-implicites-partie-2) - (2h)
+* [Exercice 10 : les intentions implicites (partie 2)](#exercice-10--les-intentions-implicites-partie-2) 
 * [Exercice 11 : Les menus et images](#exercice-11--les-menus-et-images)
-* [Exercice 12 : menu contextuels](#exercice-12--menus-contextuels)
+* [Exercice 12 : menu contextuels](#exercice-12--les-menus-et-images-partie-2) - 2
 
 ---
 
@@ -231,7 +231,7 @@ Lorsque le chargement de vos images fonctionne, ajoutez des boutons à votre app
 
 ---
 
-### Exercice 12 : menus contextuels
+### Exercice 12 : Les menus et images (partie 2)
 
 Modifiez votre application de chargement d’images en lui ajoutant un menu qui reprenne les deux opérations de miroirs horizontal et vertical. Lorsque ce menu sera opérationnel, vous supprimerez les deux boutons de l’interface.
 

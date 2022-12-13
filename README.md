@@ -7,10 +7,10 @@
 
 # ToDo
 
-- [ ] phase 1
-  - [x] finalisation phase01.md
-  - [x] Android_presentation_IUT.md (maj du .pdf)
-  - [ ] corrigés
+- [X] phase 1
+  - [X] finalisation phase01.md
+  - [X] Android_presentation_IUT.md (maj du .pdf)
+  - [X] corrigés
 - [ ] phase 2
 - [ ] phase 3
 
@@ -19,24 +19,26 @@
 
 18h + DS 2h
 
-* [Phase 01](phases/phase01.md) : TP de découverte d'Android-Studio
+* [Phase 01](phases/phase01.md) : TP de découverte d'Android-Studio (8h)
     * Présentation rapide 
     * Premiers TP 
     * Remise
+<!--
 * [Phase 02](phases/phase02.md) : TP d'approfondissement
     * Tache asynchrone et service web Fichier
     * Code barre et ISBN Fichier
     * Remise
-* [Phase 03](phases/phase03.md) : projet au choix
+-->
+* [Phase 02](phases/phase02.md) : projet au choix (8h)
     * Projet Cascade ( niveau facile ) Fichier apk pour le projet cascade 
     * Projet Taquin (facile) 
     * Projet TETRIS 
     * Remise
-* DS / plutôt TP noté ?
+* DS/TP noté (2h)
 
 #  Modalités d'évaluation
 
-[3 remise + DS/TP noté]
+[2 remises + DS/TP noté]
 
 [gitlab: un seul depot - plusieurs sous dossier - un par remise]
 
