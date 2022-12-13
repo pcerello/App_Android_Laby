@@ -12,7 +12,6 @@
   - [X] Android_presentation_IUT.md (maj du .pdf)
   - [X] corrigés
 - [ ] phase 2
-- [ ] phase 3
 
 
 # Le planning
