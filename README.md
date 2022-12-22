@@ -16,24 +16,22 @@
 
 # Le planning
 
-18h + DS 2h
-
-* [Phase 01](phases/phase01.md) : TP de découverte d'Android-Studio (8h)
+* [Phase 01](phases/phase01.md) : TP de découverte d'Android-Studio (6h)
     * Présentation rapide 
     * Premiers TP 
-    * Remise
+    * Remise individuelle : date limite **jeudi 09/02/2023**
 <!--
 * [Phase 02](phases/phase02.md) : TP d'approfondissement
     * Tache asynchrone et service web Fichier
     * Code barre et ISBN Fichier
     * Remise
 -->
-* [Phase 02](phases/phase02.md) : projet au choix (8h)
+* [Phase 02](phases/phase02.md) : projet au choix (12h)
     * Projet Cascade ( niveau facile ) Fichier apk pour le projet cascade 
     * Projet Taquin (facile) 
     * Projet TETRIS 
-    * Remise
-* DS/TP noté (2h)
+    * Remise par binôme : date limite **vendredi 10/03/2023**
+* TP noté individuel (2h): lundi 13/03/2023**
 
 #  Modalités d'évaluation
 
