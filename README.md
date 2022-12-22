@@ -12,7 +12,7 @@
   - [X] Android_presentation_IUT.md (maj du .pdf)
   - [X] corrigés
 - [ ] phase 2
-
+- [ ] sujets TP noté final
 
 # Le planning
 
@@ -31,7 +31,7 @@
     * Projet Taquin (facile) 
     * Projet TETRIS 
     * Remise par binôme : date limite **vendredi 10/03/2023**
-* TP noté individuel (2h): lundi 13/03/2023**
+* TP final noté individuel (2h): lundi 13/03/2023**
 
 #  Modalités d'évaluation
 
