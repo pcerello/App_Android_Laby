@@ -1,18 +1,9 @@
 # BUT - Programmation mobile
 
 * *auteur* : Arnaud Pêcher
-* *date*: 21/09/2022
+* *date*: 03/01/2023
 
 ---
-
-# ToDo
-
-- [X] phase 1
-  - [X] finalisation phase01.md
-  - [X] Android_presentation_IUT.md (maj du .pdf)
-  - [X] corrigés
-- [ ] phase 2
-- [ ] sujets TP noté final
 
 # Le planning
 
