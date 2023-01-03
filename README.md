@@ -5,30 +5,29 @@
 
 ---
 
-# Le planning
+# Planning et évaluation
+
+## Phases
 
 * [Phase 01](phases/phase01.md) : TP de découverte d'Android-Studio (6h)
     * Présentation rapide 
     * Premiers TP 
-    * Remise individuelle : date limite **jeudi 09/02/2023**
 <!--
 * [Phase 02](phases/phase02.md) : TP d'approfondissement
     * Tache asynchrone et service web Fichier
     * Code barre et ISBN Fichier
     * Remise
 -->
-* [Phase 02](phases/phase02.md) : projet au choix (12h)
+* [Phase 02](phases/phase02.md) : projet par binôme au choix (12h)
     * Projet Cascade ( niveau facile ) Fichier apk pour le projet cascade 
     * Projet Taquin (facile) 
     * Projet TETRIS 
-    * Remise par binôme : date limite **vendredi 10/03/2023**
-* TP final noté individuel (2h): lundi 13/03/2023**
 
-#  Modalités d'évaluation
+##  Modalités d'évaluation
 
-[2 remises + DS/TP noté]
-
-[gitlab: un seul depot - plusieurs sous dossier - un par remise]
+* exercices (phase 1): remise individuelle sur Moodle, date limite **jeudi 09/02/2023**
+* projet (phase 2): remise par binôme sur Moodle, date limite **vendredi 10/03/2023**
+* TP final individuel noté, avec remise sur Moodle, le **lundi 13/03/2023** (1h30)
 
 ---
 
