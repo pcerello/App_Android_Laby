@@ -12,16 +12,8 @@
 * [Phase 01](phases/phase01.md) : TP de découverte d'Android-Studio (6h)
     * Présentation rapide 
     * Premiers TP 
-<!--
-* [Phase 02](phases/phase02.md) : TP d'approfondissement
-    * Tache asynchrone et service web Fichier
-    * Code barre et ISBN Fichier
-    * Remise
--->
-* [Phase 02](phases/phase02.md) : projet par binôme au choix (12h)
-    * Projet Cascade ( niveau facile ) Fichier apk pour le projet cascade 
-    * Projet Taquin (facile) 
-    * Projet TETRIS 
+* [Phase 02](phases/phase02.md) : projet par binôme (12h)
+    * Projet Labyrinthe (le retour)
 
 ##  Modalités d'évaluation
 
