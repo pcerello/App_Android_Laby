@@ -4,6 +4,7 @@
 
 * [Cycle de vie d’une activité](#cycle-de-vie-dune-activité)
 * [Développement Android](#développement-android)
+* [Les fragments](#les-fragments)
 * [L’utilisation du Bundle : sauvegarde et restauration](#lutilisation-du-bundle--sauvegarde-et-restauration)
 
 ---
