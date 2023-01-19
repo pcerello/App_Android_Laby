@@ -15,7 +15,7 @@ Il reprend une série d'exercices conçus par Stéphane Fossé.
 
 Liste des exercices:
 
-## Bases 
+## Bases (2h)
 
 * [Exercice 1 : prise en main (création d’une application, compilation et lancement), refactoring](#exercice-1--prise-en-main-création-dune-application-compilation-et-lancement-refactoring)
 * [Exercice 2 : strings.xml](#exercice-2--stringsxml) 
@@ -23,7 +23,7 @@ Liste des exercices:
 * [Exercice 4 : icône](#exercice-4--icône)
 * [Exercice 5 : test du cycle de vie](#exercice-5--test-du-cycle-de-vie)
 
-## Principales notions d'une application Android
+## Principales notions d'une application Android (4h)
 
 * [Exercice 6 : layout et événements - projet calculatrice](#exercice-6--layout-et-événements) 
 * [Exercice 7 : les intentions explicites](#exercice-7--les-intentions-explicites)
@@ -31,7 +31,7 @@ Liste des exercices:
 * [Exercice 9 : les intentions implicites](#exercice-9--les-intentions-implicites)
 * [Exercice 10 : les intentions implicites (partie 2)](#exercice-10--les-intentions-implicites-partie-2) 
 * [Exercice 11 : Les menus et images](#exercice-11--les-menus-et-images)
-* [Exercice 12 : menu contextuels](#exercice-12--les-menus-et-images-partie-2) - 2
+* [Exercice 12 : menu contextuels](#exercice-12--les-menus-et-images-partie-2) 
 
 ---
 
