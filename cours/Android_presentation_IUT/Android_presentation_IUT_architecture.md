@@ -28,7 +28,7 @@
 * Les activités [Activity](https://developer.android.com/guide/components/activities.html): écran avec une interface utilisateur et un contexte
 * Les services [Service](https://developer.android.com/guide/components/services.html): composant sans écran, qui tourne en fond de tâche (lecteur de musique, téléchargement, ...)
 * Les fournisseurs de contenu [ContentProvider](https://developer.android.com/guide/topics/providers/content-providers.html): Entrée/Sortie sur des données gérées par le système ou par une autre application
-* Des récepteurs d'intentions (BroadcastReceiver): récupération d'informations générales, arrivée d'un sms, batterie faible, ...
+* Des récepteurs d'intentions [BroadcastReceiver]: récupération d'informations générales, arrivée d'un sms, batterie faible, ...
 
 ---
 
