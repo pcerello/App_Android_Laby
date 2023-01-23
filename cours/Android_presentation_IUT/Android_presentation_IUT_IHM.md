@@ -13,8 +13,9 @@
 
 ---
 
-On peut utiliser du `XML` (façon déclarative) ou `Java` (façon programmatique) (sauf traitement de l'interaction : `Java seul`) 
-Il faut privilégier le XML pour la souplesse de mise à jour et la prise en compte simplifiée de différents types d'écran ; ainsi que pour la facilité de création des interfaces à l’aide d’un outil spécifique.
+On peut utiliser du `XML` (façon déclarative) ou `Java` (façon programmatique) (sauf traitement de l'interaction : `Java seul`).
+
+Il faut privilégier le XML pour la souplesse de mise à jour et la prise en compte simplifiée de différents types d'écran ainsi que pour la facilité de création des interfaces à l’aide d’un outil spécifique.
 
 * [documentation de référence](https://developer.android.com/guide/topics/ui/index.html)
 
