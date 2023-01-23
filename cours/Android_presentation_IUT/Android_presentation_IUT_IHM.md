@@ -31,7 +31,7 @@ Les `layouts` :
     * La souplesse d'adaptation à différents périphériques
 * Possèdent des propriétés « intuitives » permettant l'organisation des composants
 
-Il y a de nombreux layouts différents (qui peuvent être imbriqués)
+Il y a de nombreux layouts différents (qui peuvent être imbriqués).
 
 De plus :
 * Un layout doit être spécifié depuis `onCreate()`
@@ -40,14 +40,14 @@ De plus :
         * Différentes tailles (`small`, `normal`, `large`, `xlarge`) sont possibles.
         * Différentes densités de pixels (low (`ldpi`), medium (`mdpi`), high (`hdpi`), extra high (`xhdpi`)) également.
 * Il faut souvent prévoir un layout par taille (et orientation) de l'écran.
-* Des effets de positionnements relatifs pouvant être gênant: prévoir des images en différentes résolutions
+* Des effets de positionnements relatifs pouvant être gênants: prévoir des images en différentes résolutions.
 * Le fonctionnement est similaire à l'internationalisation: un sous-dossier spécifique à chaque layout et/ou à chaque image
 
 ---
 
 ### RelativeLayout
 
-Le [RelativeLayout](https://developer.android.com/guide/topics/ui/layout/relative.html) est le Layout par défaut pour un nouveau projet1.
+Le [RelativeLayout](https://developer.android.com/guide/topics/ui/layout/relative.html) est le Layout par défaut pour un nouveau projet.
 
 Le positionnement se fait par rapport au parent ou les uns par rapport aux autres
 * `match_parent` : S'adapte à la taille du conteneur parent (dans l'exemple: l'écran)
@@ -75,7 +75,7 @@ On peut modifier le «poids » de chaque nœud, et ainsi, changer la taille de l
 
 ![LinearLayout](./images/presentationLinearLayout2.png)![LinearLayout](./images/presentationLinearLayout3.png)
 
-Pour l’alignement de chaque noeud dans sa zone, on peut ajouter un attribut `android:layout_gravity`. De nombreuses valeurs sont possibles (center, center_vertical, center_horizontal, left, right, top, bottom …)
+Pour l’alignement de chaque noeud dans sa zone, on peut ajouter un attribut `android:layout_gravity`. De nombreuses valeurs sont possibles (`center`, `center_vertical`, `center_horizontal`, `left`, `right`, `top`, `bottom` …)
 
 ---
 
