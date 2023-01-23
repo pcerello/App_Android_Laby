@@ -3,7 +3,7 @@
 Android est un système d'exploitation à destination des dispositifs mobiles (téléphones, tablettes, téléviseurs, montres, lunettes, voitures, casques de réalité virtuelles ...).
 
 Ses principales caractéristiques sont :
-* Open Source1 (licence Apache), gratuit, flexible, basé sur un noyau linux.
+* Open Source (licence Apache), gratuit, flexible, basé sur un noyau linux.
 * Inclusion des applications de base (téléphone, sms, carnet d'adresse, navigateur, etc.)
 * Un ensemble important d'API (OpenGL, media, etc …)
 * Un SDK basé sur un sous-ensemble de JAVA (autres langages disponibles : C, C++, …)
