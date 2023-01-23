@@ -39,7 +39,17 @@ Des messages informeront l'utilisateur
 
 ### Partie optionnelle 
 
-Vous avez toute lattitude pour rajouter des fonctionnalités: cela peut être l'incorporation de monstres (voire la réalisation d'un pacman), une prise en charge des paramètres du projet, un affichage des déplacements fluides (scrolling) etc .
+Vous avez toute lattitude pour rajouter des fonctionnalités. 
+
+Voici quelques propositions en vrac:
+* [facile] gestion des scores et des meilleurs scores (le score diminue à chaque consultation de la carte globale et à chaque déplacement);
+* [facile] prise en charge des paramètres du projet;
+* [facile] salles avec des trésors ou des pièges;
+* [moyen] plusieurs niveaux avec passage d'un niveau à l'autre avec des escaliers dans la carte;
+* [moyen] incorporation de monstres (voire la réalisation d'un pacman);
+* [difficile] affichage fluide des déplacements fluides (scrolling);
+* [difficile] affichage en 3d dans la vue permmettant de se déplacer;
+* [difficile] mode multi-joueur avec un serveur externe.
 
 ---
 
