@@ -119,7 +119,7 @@ Exemple: pour le fichier de ressources suivant,
 <resources>
     <string name="app_name">MyApplication</string>
     <string name="hello_world">Hello world!</string>
-<string name="action_settings">Settings</string>
+    <string name="action_settings">Settings</string>
 </resources>
 ```
 
