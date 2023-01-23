@@ -39,7 +39,7 @@
     * Démarrage d’un composant en lui envoyant des données
     * Récupération de résultats depuis un composant
     * Recherche d’un composant en fonction d’un type d’action à réaliser
-* Les filtres d'intentions (`<intent-filter>`)
+* Les filtres d'intentions [intent-filter](https://developer.android.com/guide/components/intents-filters)
     * Permet à un composant d'indiquer ce qu'il sait faire
     * Permet au système de sélectionner les composants susceptibles de répondre à une demande de savoir-faire d’une application
 
