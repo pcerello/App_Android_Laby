@@ -17,7 +17,7 @@ Sa part de marché en 2016 était de 80% ( 18% pour IOS)
 
 # Les contraintes de la programmation mobile
 
-* Hétérogénéité du matériel, Processeurs …
+* Hétérogénéité du matériel, processeurs …
 * Puissance et mémoire limitées
 * Interface tactile
 * Taille de l’écran
