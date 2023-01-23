@@ -52,7 +52,9 @@ protected void onRestart() // l'activité redevient visible
 
 ## Les fragments
 
-Les [fragments](https://developer.android.com/guide/fragments) sont une partie réutilisable de l'interface utilisateur de l'application: ils sont contenus dans une activité et fonctionnent de manière similaire. Ils constituent un moyen commode pour faire une application avec plusieurs pages (ou volets) car ils ont accès aux variables globales de l'application (ce qui permer de partager facilement des informations entre eux). Les intentions (`Intent`) décrits en détail dans ce cours (cf page [Les intentions](./Android_presentation_IUT_intents.md) sont plus lourds à mettre en oeuvre (une activité par page) mais en contrepartie sont exploitables par d'autres applications.
+Les [fragments](https://developer.android.com/guide/fragments) sont une partie réutilisable de l'interface utilisateur de l'application: ils sont contenus dans une activité et fonctionnent de manière similaire. Ils constituent un moyen commode pour faire une application avec plusieurs pages (ou volets) car ils ont accès aux variables globales de l'application (ce qui permer de partager facilement des informations entre eux). 
+
+Les intentions (`Intent`) décrits en détail dans ce cours (cf page [Les intentions](./Android_presentation_IUT_intents.md)) sont plus lourds à mettre en oeuvre (une activité par page) mais en contrepartie sont exploitables par d'autres applications.
 
 ---
 
