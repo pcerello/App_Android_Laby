@@ -23,7 +23,7 @@ Il faut privilégier le XML pour la souplesse de mise à jour et la prise en com
 
 ## Les layouts
 
-Un `layout` est une zone invisible assurant l'organisation automatique des composants graphiques ([documentation](https://developer.android.com/guide/topics/ui/declaring-layout.html))
+Un `layout` est une zone invisible assurant l'organisation automatique des composants graphiques ([documentation](https://developer.android.com/guide/topics/ui/declaring-layout.html)).
 
 Les `layouts` :
 * Peuvent être déclarées en `XML` ou `Java`, mais il faut privilégier `XML` pour :
