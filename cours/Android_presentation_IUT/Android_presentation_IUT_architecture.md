@@ -45,9 +45,9 @@
 
 ---
 
-## Le fichier AndroidManifest.xml
+## Le fichier [AndroidManifest.xml](https://developer.android.com/guide/topics/manifest/manifest-intro.html):
 
-Il s’agit d’une description globale de l'application [contenant](https://developer.android.com/guide/topics/manifest/manifest-intro.html):
+Il s’agit d’une description globale de l'application contenant
 * La liste des composants de l’application.
 * Le niveau minimum de l'API requise.
 * La liste des caractéristiques physiques nécessaires: gestion de la visibilité sur Google Play
