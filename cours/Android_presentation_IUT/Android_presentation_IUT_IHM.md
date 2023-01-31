@@ -57,7 +57,6 @@ Le positionnement se fait par rapport au parent ou les uns par rapport aux autre
 Exemple:
 
 ![RelativeLayout](./images/presentationRelativeLayout2.png)
-![RelativeLayout](./images/presentationRelativeLayout.png)
 
 Le comportement par défaut est que tous les nœuds sont positionnés à partir du coin supérieur gauche. Faire attention à la superposition. 
 
