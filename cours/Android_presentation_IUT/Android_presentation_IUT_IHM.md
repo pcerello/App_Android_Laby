@@ -120,8 +120,8 @@ Les fichiers `XML` ne permettent que de :
 Il faut donc maintenant définir leur comportement et type d'interaction (clic court, clic long, etc.).
 
 Pour lier un composant à du code `Java`, on dispose de :
-* en `XML`, de l'attribut `android:onClick`
-* en `Java`, de l'instanciation d’un écouteur (`EventListener`)
+* en `XML`, de l'attribut `android:onClick` pour spécifier la méthode appelée du code Java;
+* en `Java`, de l'instanciation d’un écouteur (`EventListener`) pour rattacher un écouteur directemenbt à un composant.
 
 ---
 
@@ -136,7 +136,7 @@ Exemple:
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:text="@string/monTexte"
-    android:onClick="onBoutonClique" (methode de la classe a appeler) 
+    android:onClick="onBoutonClique" <!-- (methode de la classe a appeler) --> 
 />
 ```
 
@@ -168,4 +168,4 @@ button.setOnClickListener(new View.OnClickListener() {
     }
 });
 ```
-On peut également implémenter directement l’interface dans la classe de l'activité.
+
