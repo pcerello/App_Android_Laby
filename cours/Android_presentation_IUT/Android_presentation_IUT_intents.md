@@ -50,7 +50,9 @@ Il s’agit d’un message à destination d'un composant inconnu
 * En cas de possibilités multiples, il affiche les choix à l'utilisateur
 
 ```java
-Intent intention = new Intent (…) ;
+Intent intention = new Intent () ;
+intention.setAction(...); // définition du type d'action à réaliser
+intention.setData(...); // données nécessaires à la réalisation de l'action
 startService(intention) ;
 ```
 
