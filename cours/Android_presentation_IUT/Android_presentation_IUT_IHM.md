@@ -80,7 +80,7 @@ Pour l’alignement de chaque noeud dans sa zone, on peut ajouter un attribut `a
 
 ## Les widgets
 
-Composants graphiques visibles par l'utilisateur qui héritent de la classe [View](https://developer.android.com/reference/android/view/View.html).
+Les widgets sont des composants graphiques visibles par l'utilisateur qui héritent de la classe [View](https://developer.android.com/reference/android/view/View.html).
 * Widgets simples : zones de texte, boutons, listes, etc.
 * Widgets plus complexes : horloges, barres de progression, etc.
 
