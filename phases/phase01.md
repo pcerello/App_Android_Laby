@@ -173,7 +173,7 @@ Modifiez les deux activités pour que l'activité principale, lors de l'appui su
 
 Créez un nouveau projet composé de 3 activités :
 * L’activité principale présente à l'utilisateur deux parties contenant respectivement :
-    * Pour la partie supérieure, des champs correspondant à un nom, un prénom et un numéro de téléphone, ainsi qu'un bouton mMdifier ;
+    * Pour la partie supérieure, des champs correspondant à un nom, un prénom et un numéro de téléphone, ainsi qu'un bouton Modifier ;
     * Pour la partie inférieure, une adresse sous la forme des champs numéro, nom de rue, code postal et ville, ainsi qu'un bouton Modifier.
 * Une seconde activité, déclenchée par appui du bouton Modifier de la partie supérieure, permettant à l'utilisateur de modifier la valeur des différents champs concernant son identité. Deux boutons seront présents, l'un permettant de valider les modifications saisies (renvoyées à l'activité principale) et l'autre permettant d'annuler ces modifications et de revenir à l'activité principale ;
 * Une troisième activité, fonctionnant de manière similaire, sur les informations concernant l'adresse de l'utilisateur.
