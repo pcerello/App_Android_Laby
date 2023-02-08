@@ -17,8 +17,8 @@
 
 ##  Modalités d'évaluation
 
-* exercices (phase 1): remise individuelle sur Moodle, date limite **jeudi 09/02/2023**
-* projet (phase 2): remise par binôme sur Moodle, date limite **lundi 13/03/2023**
+* **exercices** (phase 1): **remise individuelle** sur Moodle, date limite ~~**jeudi 09/02/2023**~~ **jeudi 23/02/2023**
+* **projet** (phase 2): **remise par binôme** sur Moodle, date limite **lundi 13/03/2023**
 
 ---
 
