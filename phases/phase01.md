@@ -188,7 +188,7 @@ Créez un nouveau projet et créer l’IHM ci-dessous.
 
 Complétez votre activité principale de telle sorte que l’appui sur chacun d’un de ces boutons provoque l’affichage du texte du bouton dans la console ( une seule fonction ).
 
-Modifiez le code de gestion de l’appui sur le bouton SMS de telle sorte que cet événement déclenche la une intention visant l’envoi d’un sms.
+Modifiez le code de gestion de l’appui sur le bouton SMS de telle sorte que cet événement déclenche une intention visant l’envoi d’un sms.
 
 L’action à utiliser est `ACTION SENDTO` et l’URI à créer doit utiliser le schéma sms et une information correspondant à un numéro de téléphone quelconque. Testez cette fonctionnalité ;
 
