@@ -36,8 +36,8 @@ On utilise généralement ce type d’appel aux composants appartenant à la mê
 On utilise la méthode `startActivity(intent)`.
 
 ```java
-Intent = new Intent() ;
-Intent.setClassName(this, SecondActivity.class) ;
+Intent intent = new Intent() ;
+intent.setClassName(this, SecondActivity.class) ;
 startActivity(intent) ;
 ```
 
